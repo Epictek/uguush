@@ -45,8 +45,8 @@ Todo
 
 POSIX sh compliance.
 
-Supported websites
-==================
+Supported Hosts
+===============
 | Host  | Expires | Maximum file size | Other info |
 | ------------- | ------------- | ------------- | ------------- |
 | uguu.se  | 24 Hours  | 250 MiB |
