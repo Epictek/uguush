@@ -49,9 +49,9 @@ Supported Hosts
 ===============
 | Host  | Expires | Maximum file size | Other info |
 | ------------- | ------------- | ------------- | ------------- |
-| [http://uguu.se](uguu.se) | 24 Hours  | 250 MiB |
-| [http://teknik.io](teknik)  | Permanent  | 100 MiB | All files are encrypted |
-| [http://0x0.st](0x0.st)  | 30 days, up to a year (see on site) | 64.0 MiB | |
+| [uguu.se](http://uguu.se) | 24 Hours  | 250 MiB |
+| [teknik.io](http://teknik.io)  | Permanent  | 100 MiB | All files are encrypted |
+| [0x0.st](http://0x0.st)  | 30 days, up to a year (see on site) | 64.0 MiB | |
 
 
 Credit
